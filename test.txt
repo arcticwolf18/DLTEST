@@ -4,3 +4,4 @@ YubiKey test
 Signed commit from YubiKey confirmed
 Signed commit from YubiKey confirmed
 Real signed commit
+Verification test
